@@ -6,5 +6,5 @@ therealaleph/MasterHttpRelayVPN-RUST# See 'repos.txt.example' file
 
 # 1. No filter – keep all assets from the release
 IRNova/Nova-Proxy-App
-# 1. No filter – keep all assets from the release
+# 2. No filter – keep all assets from the release
 SniShaper/SniShaper
